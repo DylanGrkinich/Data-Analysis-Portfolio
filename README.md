@@ -5,13 +5,13 @@ Hello, my name is Dylan and here is a deeper look into what courses I have taken
 
 ## Table of Contents
 
-•	About
+•	[About](#about)
 
-• Courses
+• [Courses](#courses)
 
-• Projects
+• [Projects](#projects)
 
-• Certificates
+• [Certificates](#certificates)
 
 ## Courses
 
