@@ -66,16 +66,22 @@ Courses
 
 ## Projects
 
-**When was the golden Age of Video Games?**
-**Code**: ___
+### Video Games Sales Analysis
+
+**Code**: [Golden_Age](https://github.com/DylanGrkinich/Data-Analysis-Portfolio/blob/main/Golden_age_of_video_games.ipynb). 
+
 **Description** Use joins and set theory to discover the best years for video games!
 
 **Analyzing NYC Public School Test Result Scores**
+
 **Code**: ___
+
 **Description** Use summary statistics and filters to analyze test scores across New York City's public schools!
 
-**Where are the fishes?**
+### Where are the fishes?
+
 **Code:** ___
+
 **Description**In this project, you will explore two georeferenced data files collected from an echosounder to determine where fish were along a track line in the Mid-Atlantic Bight (US). Marine ecologists use sound reflections to “see” different types of organisms in the water column and to determine the depth of the seafloor. You are going to load, clean, and plot bathymetric data (depth of the seafloor) to examine the shelf break, and the mean volumetric backscatter (Sv, dB re 1 m) along a transect in the Mid-Atlantic Bight area of the North Atlantic Ocean to find fishes. To complete this project you should be comfortable working in the Tidyverse, plus working with dates and times and writing functions.
 
 
