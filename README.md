@@ -89,4 +89,4 @@ Courses
 
 [Google Analytics Certificate]([url](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=google&utm_medium=institutions&utm_campaign=gwgsite#courses))
 
-(California State Unicersity, Fullerton) Introduction to Python 3 programming
+(California State University, Fullerton) Introduction to Python 3 programming
